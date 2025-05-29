@@ -43,7 +43,7 @@ Inspired by classic **text adventures**, **MUDs**, and **choose-your-own-adventu
 
 ### ⚡️ Quick Start
 
-Download the latest release or the clone the current repository, set your OpenAI API key as described below, and run the executable:
+Download the latest release, set your OpenAI API key as described below, and run the executable:
 
 - No installation required
 - Works on Windows (Python not needed)
