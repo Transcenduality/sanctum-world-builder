@@ -47,7 +47,7 @@ Download the latest release, set your OpenAI API key as described below, and run
 
 - No installation required
 - Works on Windows (Python not needed)
-- Saves still persist to the `saves/` folder
+- Saves persist to the `saves/` folder
 
 ### Set Your OpenAI API Key
 
