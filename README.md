@@ -2,7 +2,7 @@
 
 **Sanctum World Builder** is a single-player, AI-powered storytelling engine where players co-create unique fantasy worlds and narratives with a responsive narrator.
 
-Inspired by classic **text adventures**, **MUDs**, and **choose-your-own-adventure** books, Sanctum allows each player to define their own world, make meaningful choices, and shape an evolving story—all guided by GPT-4.
+Inspired by classic **text adventures**, **MUDs**, and **choose-your-own-adventure** books, Sanctum allows each player to define their own world, make meaningful choices, and shape an evolving story - all guided by GPT-4.
 
 ---
 
